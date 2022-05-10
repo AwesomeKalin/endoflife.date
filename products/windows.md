@@ -105,6 +105,11 @@ releases:
     release: 2017-04-11
     support: 2018-10-09
     eol: 2018-10-09
+  - releaseCycle: "Windows 10, version 1607 LTSC (E)"
+    cycleShortHand: 10.0.14393
+    release: 2016-08-02
+    support: 2026-10-13
+    eol: 2026-10-13
   - releaseCycle: "Windows 10, version 1607 (E)"
     cycleShortHand: 10.0.14393
     release: 2016-08-02
@@ -120,6 +125,11 @@ releases:
     release: 2015-11-10
     support: 2017-10-10
     eol: 2017-10-10
+  - releaseCycle: "Windows 10, version 1507 LTSC (E)"
+    cycleShortHand: 10.0.10240
+    release: 2015-07-29
+    support: 2025-10-14
+    eol: 2025-10-14
   - releaseCycle: "Windows 10, version 1507 (E)(W)"
     cycleShortHand: 10.0.10240
     release: 2015-07-29
